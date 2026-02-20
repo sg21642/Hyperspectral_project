@@ -1,0 +1,15 @@
+As the files are of large size, the data are suggested to be downloaded wisely. 
+The following Pre_recorded data and their size are listed below:
+Mango ---------> 2.7 GB
+Kiwi ----------> 44 GB
+Papaya --------> 22 GB
+Avocado -------> 72 GB
+
+To download this data follow this process on your Linux Mechine.
+
+1. Download or copy the desired shell script of the desired data of the fruit. 
+2. Make the script executable by running the following command:
+                 chmod +x SHELL_SCRIPT_NAME
+3. Run the scipt:
+                 ./SHELL_SCRIPT_NAME
+

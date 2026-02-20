@@ -1,0 +1,3 @@
+#!/bin/bash
+
+wget https://cogsys.cs.uni-tuebingen.de/webprojects/DeepHS-Fruit-2023-Datasets/Mango.zip
